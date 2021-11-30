@@ -1,6 +1,32 @@
+body {
+    height: 100vh;
+    overflow: hidden;
+}
+
 main {
     position: absolute;
     bottom: 10%;
     right: 10%;
     text-align: right;
+}
+
+main h2,
+main p {
+    animation-name: header-animation;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes header-animation {
+    0% {
+        margin-top: 10rem;
+        opacity: 0;
+    }
+    50% {
+        opacity: 30%;
+    }
+    100% {
+        margin-top: 1rem;
+        opacity: 100%;
+    }
 }
