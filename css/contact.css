@@ -1,0 +1,10 @@
+.contact {
+    padding: 50px 50px 50px 450px;
+}
+
+.submit-button {
+    margin: 30px;
+    margin-left: 20%;
+    background-color: cadetblue;
+    text-transform: uppercase;
+}
