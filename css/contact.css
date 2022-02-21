@@ -1,10 +1,40 @@
 .contact {
-    padding: 50px 50px 50px 450px;
+    text-align: center;
+    margin: 2rem 0;
 }
 
-.submit-button {
-    margin: 30px;
-    margin-left: 20%;
-    background-color: cadetblue;
+label {
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+input,
+textarea {
+    width: 65%;
+    padding: 5px;
+    display: inline-block;
+    border: 0;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.submit-button input {
+    padding: 10px;
+    background-color: white;
     text-transform: uppercase;
+    width: 180px;
+    font-weight: bold;
+    margin-left: 220px;
+}
+
+.contact-form {
+    width: 500px;
+    margin: 0 auto;
+}
+
+textarea {
+    resize: none;
 }
