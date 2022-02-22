@@ -1,0 +1,19 @@
+main {
+    text-align: center;
+}
+
+.page-title {
+    margin: 2rem 0;
+}
+
+.logos {
+    margin-top: 100px;
+}
+
+.logos a:hover {
+    opacity: 100%;
+}
+
+.logos a {
+    opacity: 75%
+}
