@@ -8,8 +8,22 @@ main {
     bottom: 10%;
     right: 10%;
     text-align: right;
+    animation-name: entry-animation;
+    animation-duration: 4s;
+    animation-fill-mode: forwards;
 }
 
 p {
     margin-top: 20px;
+}
+
+@keyframes entry-animation {
+    from {
+        top: 0px;
+        opacity: 0%;
+    }
+    to {
+        top: 60%;
+        opacity: 100%;
+    }
 }
