@@ -1,6 +1,8 @@
 ## O projekcie
 
-W tym repozytorium znajduje się moja pierwsza strona napisana w HTML i CSS. Prace nad stroną miały nauczyć mnie podstaw korzystania z tych dwóch technologii. Poniżej przedstawiam listę użytych technik i funkcjonalności. 
+W tym repozytorium znajduje się moja pierwsza strona napisana w HTML i CSS. Prace nad stroną nauczyły mnie podstaw korzystania z tych dwóch technologii. Adres strony: [rjunik.github.io/hello-world-website](https://rjunik.github.io/hello-world-website/index.html)
+
+Poniżej przedstawiam listę użytych technik i funkcjonalności. 
 
 ## CSS 
 - `reset.css` - plik resetujący style przeglądarek
